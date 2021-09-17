@@ -1,0 +1,10 @@
+C:\Users\wwanonphi\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\GTOPPER_ServiceCore\bin\Debug\netcoreapp3.1\GTOPPER_ServiceCore.deps.json
+C:\Users\wwanonphi\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\GTOPPER_ServiceCore\bin\Debug\netcoreapp3.1\GTOPPER_ServiceCore.dll
+C:\Users\wwanonphi\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\GTOPPER_ServiceCore\bin\Debug\netcoreapp3.1\GTOPPER_ServiceCore.pdb
+C:\Users\wwanonphi\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\GTOPPER_ServiceCore\obj\Debug\netcoreapp3.1\GTOPPER_ServiceCore.csproj.AssemblyReference.cache
+C:\Users\wwanonphi\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\GTOPPER_ServiceCore\obj\Debug\netcoreapp3.1\GTOPPER_ServiceCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwanonphi\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\GTOPPER_ServiceCore\obj\Debug\netcoreapp3.1\GTOPPER_ServiceCore.AssemblyInfoInputs.cache
+C:\Users\wwanonphi\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\GTOPPER_ServiceCore\obj\Debug\netcoreapp3.1\GTOPPER_ServiceCore.AssemblyInfo.cs
+C:\Users\wwanonphi\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\GTOPPER_ServiceCore\obj\Debug\netcoreapp3.1\GTOPPER_ServiceCore.csproj.CoreCompileInputs.cache
+C:\Users\wwanonphi\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\GTOPPER_ServiceCore\obj\Debug\netcoreapp3.1\GTOPPER_ServiceCore.dll
+C:\Users\wwanonphi\Downloads\Compressed\Sprout.Exam.WebApp\Sprout.Exam.WebApp\GTOPPER_ServiceCore\obj\Debug\netcoreapp3.1\GTOPPER_ServiceCore.pdb
